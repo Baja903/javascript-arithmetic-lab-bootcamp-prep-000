@@ -3,4 +3,9 @@ var number = 10
     number += 5
   }
   
+  function divideBy3(){
+    number /= 3 
+  }
+  
+  divideBy3()
   
